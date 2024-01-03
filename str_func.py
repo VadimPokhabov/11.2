@@ -4,8 +4,6 @@ def func():
     return text.upper()
 
 
-print(func())
-
 def func2(text):
     """Принимает текст,
     возвращает с большой буквы"""
